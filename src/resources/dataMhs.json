@@ -1,0 +1,37 @@
+[
+    {
+        "nim":1,
+        "nama":"Mahasiswa 1",
+        "tglLahir":"25-08-2003",
+        "email":"mhs1@kampus.ac.id",
+        "prodi":"informatika"
+    },
+    {
+        "nim":2,
+        "nama":"Mahasiswa 2",
+        "tglLahir":"25-08-2001",
+        "email":"mhs2@kampus.ac.id",
+        "prodi":"sistem informasi"
+    },
+    {
+        "nim":3,
+        "nama":"Mahasiswa 3",
+        "tglLahir":"25-08-2002",
+        "email":"mhs3@kampus.ac.id",
+        "prodi":"informatika"
+    },
+    {
+        "nim":4,
+        "nama":"Mahasiswa 4",
+        "tglLahir":"25-05-2003",
+        "email":"mhs4@kampus.ac.id",
+        "prodi":"bisnis"
+    },
+    {
+        "nim":5,
+        "nama":"Mahasiswa 5",
+        "tglLahir":"27-08-2002",
+        "email":"mhs5@kampus.ac.id",
+        "prodi":"hukum"
+    }
+]
