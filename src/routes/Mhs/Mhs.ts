@@ -5,6 +5,6 @@ export const router = express.Router({
     strict:true
 })
 
-router.get('/',(req:Request,res:Response)=>{
+router.get('/oke',(req:Request,res:Response)=>{
     mhsController.read(req,res)
 })
