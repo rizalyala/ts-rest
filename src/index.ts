@@ -13,6 +13,6 @@ app.get("/",(req,res)=>{
 app.use("/mhs",mhsRouter)
 
 app.listen(PORT,()=>{
-    console.log(`Endpoint Akademik sudah siap dan bisa diakses di port ${PORT}`)
+    console.log(`Endpoint Akademik sudah siap dan bisa diakses di 'http://localhost:4000/'`)
 })
 
